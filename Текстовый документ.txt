@@ -1,10 +1,2 @@
-div class="portfolio"
-<section>
-  <h2>Портфолио</h2>
-<section>
-  <h2>Портфолио</h2>
-  <div class="portfolio">
-    <img src="https://via.placeholder.com/600x400?text=Макияж+1" alt="Пример макияжа 1">
-    <img src="https://via.placeholder.com/600x400?text=Макияж+2" alt="Пример макияжа 2">
-  </div>
-</section>
+<img src="makeup1.jpg" alt="Макияж 1">
+<img src="makeup2.jpg" alt="Макияж 2"
